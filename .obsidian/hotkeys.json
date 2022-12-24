@@ -16,5 +16,15 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-git:backup-and-close": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }
